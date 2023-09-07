@@ -10,7 +10,7 @@ std::string converteParaBinario(int decimal);
 
 int main() {
     int result = converteParaInteiro("11011");
-    string binario = converteParaBinario(698);
+    string binario = converteParaBinario(27);
     return 0;
 }
 
